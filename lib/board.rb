@@ -2,4 +2,4 @@
 row = "   |   |   "
 line = "-----------"
 
-board = [row,line,row,line,row]
+board = [" ", " ", " ", " ", " ", " ", " ", " "]
